@@ -2,6 +2,7 @@ A Body Mass Index calculator to create awareness about a healthy weight
 ========================================================
 author: Frank Wartena
 date: May 17, 2015
+transition: concave  
 
 Healthy Weight
 ========================================================
